@@ -32,3 +32,4 @@ mvn test
 - Maven
 - H2 Database
 # Version 1.0
+# Version 2.0
